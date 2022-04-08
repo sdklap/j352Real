@@ -1,0 +1,103 @@
+.navBar {
+	background-color: #611CE6;
+	color: white;
+}
+
+.textArea {
+	background-color: white;
+	color: black;
+}
+
+.sidebar {
+	background-color: white;
+}
+
+.calloutStyle {
+	margin-top: 210px;
+	text-align: center;
+	background-color: #611CE6;
+	color: white;
+}
+
+.sideText {
+	color: white;
+}
+
+.bottom {
+	background-color: #611CE6;
+	text-align: center;
+	color: #611CE6;
+}
+
+.sources {
+	color: darkgray;
+}
+
+th {
+	color: #611CE6;
+	font-family: 'Montserrat', sans-serif;
+}
+
+td {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: bolder;
+}
+
+table {
+	border-width: 10px;
+	border-color: darkgray;
+}
+
+h3 {
+	color: #611CE6;
+	font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+	font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+	font-family: 'Montserrat', sans-serif;
+}
+
+h5 {
+	font-family: 'Montserrat', sans-serif;
+	color: white;
+}
+
+h4 {
+	font-family: 'Montserrat', sans-serif;
+}
+
+p {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+figcaption {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+blockquote {
+	font-family: 'Source Sans Pro', sans-serif;
+	color: black;
+}
+
+button {
+	font-family: 'Source Sans Pro', sans-serif;
+	color: white;
+}
+
+a:link {
+	color: #611CE6;
+	text-decoration: underline;
+}
+/*darker color of link*/
+a:visited {
+	color: #8053FC;
+	text-decoration: underline;
+}
+
+ul {
+	font-family: 'Source Sans Pro', sans-serif;
+}
