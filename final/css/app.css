@@ -1,0 +1,85 @@
+.navBar {
+	background-color: #FC47C6;
+	color: white;
+}
+
+.textArea {
+	background-color: #e1fe88;
+	color: black;
+}
+
+.sidebar {
+	background-color: #e1fe88;
+}
+
+.calloutStyle {
+	margin-top: 210px;
+	text-align: center;
+	background-color: #FC47C6;
+	color: white;
+}
+
+.bottom {
+	background-color: #FC47C6;
+	text-align: center;
+	color: #FC47C6;
+}
+
+
+h3 {
+	color: #e1fe88;
+	font-family: 'playfair display', sans-serif; font-weight: 900;
+	background-color: #FC47C6;
+}
+
+h1 {
+	font-family: 'playfair display', sans-serif; font-weight: 900;
+	color: #FC47C6;
+	text-align: center;
+}
+
+h2 {
+	font-family: 'Montserrat', sans-serif;
+}
+
+h5 {
+	font-family: 'IBM Plex Sans', sans-serif;
+	color: #696969;
+}
+
+h4 {
+	font-family: 'Playfair Display', sans-serif;
+	color: #FC47C6;
+	text-align: ;
+}
+
+p {
+	font-family: 'IBM Plex Sans', sans-serif;
+	color: #696969;
+}
+
+figcaption {
+	font-family: 'playfair display', sans-serif;
+	color: #696969;
+	background-color: #e1fe88;
+}
+
+blockquote {
+	font-family: 'IBM Plex Sans', sans-serif;
+	color: #696969;
+}
+
+button {
+	font-family: 'SIBM Plex Sans', sans-serif;
+	color: #696969;
+}
+
+a:link {
+	color: #696969;
+	text-decoration: underline;
+}
+/*darker color of link*/
+a:visited {
+	color: #696969;
+	text-decoration: underline;
+}
